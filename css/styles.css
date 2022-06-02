@@ -38,8 +38,9 @@
 .tagline {
   font-size: 4rem;
   font-weight: 700;
-  font-family: 'Domine', serif;
+  font-family: 'Pacifico', cursive;
   color: #324ab2;
+  line-height: 1.5;
 }
 
 .btn1 {
@@ -87,7 +88,7 @@
 .wide {
   color: #324ab2;
   font-weight: 700;
-   /* #EB3C62 */
+  font-family: 'Pacifico', cursive;
 }
 
 .price__tag {
