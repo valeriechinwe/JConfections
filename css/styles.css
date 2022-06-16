@@ -91,6 +91,12 @@
   font-family: 'Pacifico', cursive;
 }
 
+.shadow {
+  box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
+  -webkit-box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
+  -moz-box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
+}
+
 .price__tag {
   background-color: #F4EDE7;
   border-radius: 20px;
@@ -108,6 +114,8 @@
 .product__img:hover {
   transform: scale(1.1);
 }
+
+
 
 .ourStory {
   font-family: 'Libre Baskerville', serif;
