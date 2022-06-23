@@ -79,8 +79,12 @@
   animation: none;
 }
 
+p{
+  font-style: italic;
+}
+
 .extras {
-  background-color: #F4EDE7;
+  background-color: #FFD1DC;
   font-family: 'Open Sans', sans-serif;
   color: #676767;
     }
@@ -90,22 +94,18 @@
   font-weight: 700;
   font-family: 'Pacifico', cursive;
 }
-
+#F4EDE7
 .shadow {
-  box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
-  -webkit-box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
-  -moz-box-shadow: 21px 29px 21px 0px rgba(13,22,245,0.75);
+  -webkit-box-shadow: 21px 29px 21px 0 rgba(13,22,245,0.75);
+  -moz-box-shadow: 21px 29px 21px 0 rgba(13,22,245,0.75);
+  box-shadow: 21px 29px 21px 0 rgba(13,22,245,0.75);
 }
 
 .price__tag {
-  background-color: #F4EDE7;
+  background-color: #FFD1DC;
   border-radius: 20px;
   color: #676767;
 }
-
-/* .product{
-  background-color: #F4EDE7;
-} */
 
 .product__img {
   transition: 0.3s all ease-in-out;
@@ -114,7 +114,6 @@
 .product__img:hover {
   transform: scale(1.1);
 }
-
 
 
 .ourStory {
