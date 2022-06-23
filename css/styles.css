@@ -142,3 +142,9 @@ p{
   font-style: italic;
   color: #676767;
   }
+
+  @media only screen and (max-width: 600px) {
+  .price__info{
+    font-size:0.8rem;
+  }
+}
