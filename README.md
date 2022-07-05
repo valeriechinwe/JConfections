@@ -1,1 +1,1 @@
-# JConfections
+# JBite Confectionery
